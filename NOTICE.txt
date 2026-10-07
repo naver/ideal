@@ -1,0 +1,57 @@
+IDeaL Notice of acknowledgements:
+
+Portions of the Materials may utilize the following subcomponents or dependencies with separate copyright notices and license terms, the use of which is hereby acknowledged:
+
+---------------------------------------------------------
+PART 1: SEE NOTICES BELOW WITH RESPECT TO SOFTWARE FILES:
+---------------------------------------------------------
+Portions of the Materials incorporate software identified in PART 1, which is distributed with the Materials in either unmodified or modified form. Any software distributed in unmodified form remains subject to the terms and conditions set forth below, and any software distributed in modified form is subject to the license applicable to the Materials, in addition to any further limiting terms and conditions specified below:
+
+(1.A) The software available here:
+	https://github.com/zkkli/PSAQ-ViT
+under these conditions (Apache License Version 2.0):
+	https://github.com/zkkli/PSAQ-ViT/blob/main/LICENSE
+is being redistributed here:
+   	optimization.py
+	losses.py
+	image_utils.py
+	hooks.py
+
+Also see: Li et al., "Patch Similarity Aware Data-Free Quantization for Vision Transformers" in European Conference on Computer Vision (ECCV), March 2022.
+
+(1.B) The software available here:
+	https://github.com/facebookresearch/dino/blob/main/
+under these conditions (Apache 2.0 License):
+	https://github.com/facebookresearch/dino/blob/main/LICENSE
+is being redistributed here:
+   	teachers/vit_dino.py
+
+(1.C) The software available here:
+	https://github.com/facebookresearch/deit/blob/main/
+under these conditions (Apache 2.0 License):
+   https://github.com/facebookresearch/deit/blob/main/LICENSE
+is being redistributed in a modified form here:
+   	teachers/vit_deit3.py
+
+(1.D) The software available here:
+	https://github.com/liuxingbin/dbot/blob/main/
+under these conditions (Apache 2.0 License):
+   https://github.com/liuxingbin/dbot/blob/main/LICENSE
+is being redistributed in a modified form here:
+  	teachers/vit_dbotft.py
+
+(1.E) The software available here:
+	 https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/
+under these conditions (Apache 2.0 License):
+   https://github.com/huggingface/pytorch-image-models/blob/main/LICENSE
+is being redistributed in a modified form here:
+   	teachers/vit_deit3.py
+
+(1.F) The software available here:
+	https://github.com/facebookresearch/mae
+under these conditions (CC-BY-NC 4.0 License):
+   https://github.com/facebookresearch/mae/blob/main/LICENSE
+is being redistributed in a modified form here:
+  	teachers/vit_dbotft.py
+
+

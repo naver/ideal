@@ -1,0 +1,11 @@
+# Tested with Python 3.10, PyTorch 2.5.1 (CUDA 12.4)
+torch==2.5.1
+torchvision==0.20.1
+timm>=0.9
+numpy
+Pillow
+matplotlib
+tqdm
+omegaconf
+scikit-learn
+scipy
